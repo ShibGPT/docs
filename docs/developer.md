@@ -24,9 +24,7 @@ In addition to his proficiency in crypto and blockchain, Edinson has a keen inte
 
 ### Connect with Edinson
 
-- [LinkedIn](https://www.linkedin.com/in/edinson-carranza/)
-- [Twitter](https://twitter.com/EdinsonCarranza)
-- [GitHub](https://github.com/edinson1234)
-- [Medium](https://medium.com/@edinsoncarranza)
+- [Twitter](https://x.com/edinsoncode)
+- [GitHub](https://github.com/edinsoncs)
 
 Feel free to connect with Edinson on LinkedIn, Twitter, GitHub, or Medium to stay updated on his latest projects, insights, and contributions to the crypto and blockchain community.
