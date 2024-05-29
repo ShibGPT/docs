@@ -23,7 +23,7 @@ const config = {
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'shigpt', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -78,7 +78,7 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          
+          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/ShibGPT',
             label: 'GitHub',

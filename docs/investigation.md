@@ -51,8 +51,3 @@ In this repository, we focus on the research and development (R&D) aspects of Ar
   - Release LLM-based products to the public.
   - Engage with the community through workshops, webinars, and open discussions.
 
-
-## License
-
-This project is licensed under the [MIT License](LICENSE), allowing for open collaboration and innovation in the field of AI and blockchain.
-
