@@ -53,7 +53,7 @@ Discover how SHIB GPT is transforming industries and revolutionizing the way we 
 ## Video Resources
 
 - [Understanding SHIB GPT Architecture](https://www.youtube.com/watch?v=HN8QuPOyto0)
-- [Real-Time Data Analysis with SHIB GPT](https://www.youtube.com/watch?v=2ePf9rue1Ao)
+- [Unveiling SHIB GPT: The Future of AI with Meta-LLAMA & More!](https://www.youtube.com/watch?v=4t40IcrJoh8)
 
 ## Model Repositories
 
